@@ -1,0 +1,35 @@
+Warning: Undefined property: stdClass::$rating in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 36
+
+Warning: Undefined property: stdClass::$rating in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 40
+
+Warning: Undefined property: stdClass::$added in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 41
+
+Warning: Undefined property: stdClass::$last_updated in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 42
+
+Warning: Undefined property: stdClass::$version in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 47
+
+Warning: Undefined property: stdClass::$requires in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 48
+
+Warning: Undefined property: stdClass::$tested in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 49
+
+Warning: Undefined property: stdClass::$downloaded in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 51
+
+Warning: Undefined property: stdClass::$download_link in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 59
+
+Warning: Undefined property: stdClass::$rating in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 36
+
+Warning: Undefined property: stdClass::$rating in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 40
+
+Warning: Undefined property: stdClass::$added in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 41
+
+Warning: Undefined property: stdClass::$last_updated in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 42
+
+Warning: Undefined property: stdClass::$version in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 47
+
+Warning: Undefined property: stdClass::$requires in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 48
+
+Warning: Undefined property: stdClass::$tested in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 49
+
+Warning: Undefined property: stdClass::$downloaded in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 51
+
+Warning: Undefined property: stdClass::$download_link in /home/wppluginsatoz/public_html/wp-content/plugins/dcg-display-plugin-data/dcg-display-plugin-data.php on line 59
